@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '31812'
     url: http://www.gutenberg.org/2009/agents/31812
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26130#Stories-of-the-Saints-by-Candle-Light
 gutenberg_issued: '2008-07-26'
 gutenberg_type: Text
 identifiers:
